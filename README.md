@@ -1,1 +1,1 @@
-zrób zakładkę w Chrome z URL-em: javascript:(function(){let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/julianpiekos/hammer@main/hammer.js';document.body.appendChild(s);})();
+zrób zakładkę w Chrome z URL-em: 'javascript:(function(){let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/julianpiekos/hammer@main/hammer.js';document.body.appendChild(s);})();'
